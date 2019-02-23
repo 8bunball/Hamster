@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/8bunball/Hamster/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/8bunball/Hamster/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<!doctype html>
+<html>
+<head>
+  <title>cute hamster</title>
+ <meta charset="utf-8">
+</head>
+<body>
+  <h1><a href="0219.html"><font color="red">Small Animals</a></h1>
+<ul>
+<li> <a href="02190.html">1. puppy<br></a></li>
+<li> <a href="02191.html">2. kitten<br></a></li>
+<li> <a href="02192.html">3. hamster<br></a></li>
+<li> <a href="02193.html">4. bunny<br></a></li>
+</ul>
+<h3> WELCOME!!</h3>
+<img src="https://www.telegraph.co.uk/content/dam/Pets/
+spark/pets-at-home-2017/fluffy-white-puppy.jpg?imwidth=450" alt="puppy image"width="31.1%">
+<img src="kit.jpg" alt="kitten  image"><br>
+<img src="ham 1.jpg" alt="hamster image"width="29.5%">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdGXKtQApq
+lqWEmC4Qe2Efdqhxxt7b2u-m7QP-IDmQGCtnIpIDeQ" alt="bunnies image"width="31%">
+</body>
+</html>
